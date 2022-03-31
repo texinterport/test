@@ -7,3 +7,5 @@ def list_maker(test):
     new_list = test.split(" ")
     return new_list
 list_maker(test_condition1)
+
+# Here are my new changes
